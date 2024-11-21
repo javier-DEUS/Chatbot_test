@@ -30,3 +30,5 @@ This app can be deployed on Streamlit Cloud:
 5. Deploy the app
 
 Remember to set the `OPENAI_API_KEY` as a secret in your Streamlit Cloud app settings for production use.
+
+https://hackernoon.com/lang/es/tutorial-completo-sobre-como-crear-una-aplicacion-rag-con-langchain
