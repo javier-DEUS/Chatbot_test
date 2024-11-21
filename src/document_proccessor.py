@@ -5,8 +5,6 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.document_loaders.parsers.pdf import ( extract_from_images_with_rapidocr, ) 
 from langchain.schema import Document
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Language
 
 
 def split_documents(documents):

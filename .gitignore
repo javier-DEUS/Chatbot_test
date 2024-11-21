@@ -1,5 +1,6 @@
 # .gitignore 
 venv/ 
+rag_tutorial/ 
 __pycache__/ 
 .env 
 *.pdf 
