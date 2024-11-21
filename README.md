@@ -5,10 +5,10 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and 
 ## Setup
 
 1. Clone the repository
-2. Create a virtual environment: `python -m venv venv`
+2. Create a virtual environment: `python -m venv rag_tutorial`
 3. Activate the virtual environment:
-   - On Windows: `venv\Scripts\activate`
-   - On macOS and Linux: `source venv/bin/activate`
+   - On Windows: `rag_tutorial\Scripts\activate`
+   - On macOS and Linux: `source rag_tutorial/bin/activate`
 4. Install the requirements: `pip install -r requirements.txt`
 5. Run the app: `streamlit run app.py`
 
