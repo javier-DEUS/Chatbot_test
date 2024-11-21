@@ -1,0 +1,11 @@
+# Paquetes relacionados con LangChain
+langchain==0.2.14
+langchain_community==0.2.12
+langchain_core==0.2.35
+langchain_openai==0.1.22
+
+# Utilidades adicionales
+python-dotenv==1.0.1  # Carga variables de entorno desde un archivo .env
+streamlit==1.37.1  # Framework para aplicaciones web interactivas
+faiss-cpu==1.7.4  # Biblioteca de búsqueda en índices de vectores para CPU
+pypdf==3.12.0  # Biblioteca para trabajar con archivos PDF
